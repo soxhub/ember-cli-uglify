@@ -23,6 +23,6 @@
     "before": "broccoli-asset-rev"
   },
   "dependencies": {
-    "broccoli-uglify-sourcemap": "soxhub/broccoli-uglify-sourcemap#d33fe38"
+    "broccoli-uglify-sourcemap": "ef4/broccoli-uglify-sourcemap#3e85a861159823ddc82169c01c3f2d1389250b19"
   }
 }
